@@ -1,0 +1,11 @@
+Hyperparameters: (14, 14, [7, 14, 21], 12, 26, 9, 20, (2, 2), (48, 288), 0.005, (0, 0), 10, 288, 0.8, 10, 1, 'adam', 0.01, 16, 1, 0.2) - Peak Metrics: None, Trough Metrics: None, Total Profit: 127.84095752125992
+Hyperparameters: (14, 14, [7, 14, 21], 12, 26, 9, 20, (2, 2), (48, 288), 0.005, (0, 0), 10, 288, 0.8, 10, 1, 'adam', 0.01, 16, 1, 0.3) - Peak Metrics: None, Trough Metrics: None, Total Profit: 28.928034328156283
+Hyperparameters: (14, 14, [7, 14, 21], 12, 26, 9, 20, (2, 2), (48, 288), 0.005, (0, 0), 10, 288, 0.8, 10, 1, 'adam', 0.01, 16, 2, 0.2) - Peak Metrics: None, Trough Metrics: None, Total Profit: 8.169489877101206
+Hyperparameters: (14, 14, [7, 14, 21], 12, 26, 9, 20, (2, 2), (48, 288), 0.005, (0, 0), 10, 288, 0.8, 10, 1, 'adam', 0.01, 16, 2, 0.3) - Peak Metrics: None, Trough Metrics: None, Total Profit: 0.8624970947117472
+Hyperparameters: (14, 14, [7, 14, 21], 12, 26, 9, 20, (2, 2), (48, 288), 0.005, (0, 0), 10, 288, 0.8, 10, 1, 'adam', 0.01, 32, 1, 0.2) - Peak Metrics: None, Trough Metrics: None, Total Profit: 111.85243952960363
+Hyperparameters: (14, 14, [7, 14, 21], 12, 26, 9, 20, (2, 2), (48, 288), 0.005, (0, 0), 10, 288, 0.8, 10, 1, 'adam', 0.01, 32, 1, 0.3) - Peak Metrics: None, Trough Metrics: None, Total Profit: 8.082187749220065
+Hyperparameters: (14, 14, [7, 14, 21], 12, 26, 9, 20, (2, 2), (48, 288), 0.005, (0, 0), 10, 288, 0.8, 10, 1, 'adam', 0.01, 32, 2, 0.2) - Peak Metrics: None, Trough Metrics: None, Total Profit: -100.57906417791398
+Hyperparameters: (14, 14, [7, 14, 21], 12, 26, 9, 20, (2, 2), (48, 288), 0.005, (0, 0), 10, 288, 0.8, 10, 1, 'adam', 0.01, 32, 2, 0.3) - Peak Metrics: None, Trough Metrics: None, Total Profit: -16.072086056731262
+Hyperparameters: (14, 14, [7, 14, 21], 12, 26, 9, 20, (2, 2), (48, 288), 0.005, (0, 0), 10, 288, 0.8, 10, 1, 'adam', 0.001, 16, 1, 0.2) - Peak Metrics: None, Trough Metrics: None, Total Profit: 41.39517338439951
+Hyperparameters: (14, 14, [7, 14, 21], 12, 26, 9, 20, (2, 2), (48, 288), 0.005, (0, 0), 10, 288, 0.8, 10, 1, 'adam', 0.001, 16, 1, 0.3) - Peak Metrics: None, Trough Metrics: None, Total Profit: 141.73763291738123
+Hyperparameters: (14, 14, [7, 14, 21], 12, 26, 9, 20, (2, 2), (48, 288), 0.005, (0, 0), 10, 288, 0.8, 10, 1, 'adam', 0.001, 16, 2, 0.2) - Peak Metrics: None, Trough Metrics: None, Total Profit: 69.40680074325735

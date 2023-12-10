@@ -1,0 +1,10 @@
+pandas
+scipy
+matplotlib
+scikit-learn
+tk
+TA-lib
+tqdm
+tensorflow
+joblib
+requests
