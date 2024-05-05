@@ -37,7 +37,7 @@ from preProcessing.splitTestTrainTroughs import splitTestTrainTroughs
 from models.buildPeakModel import buildPeakModel
 from models.buildTroughModel import buildTroughModel
 from visualize.backTest import backtest_and_save_to_csv
-from visualize.testModelAndPlotPredictionsDate import plotModelsAndPredictions
+#from visualize.testModelAndPlotPredictionsDate import plotModelsAndPredictions
 
 # List of all possible features
 ALL_FEATURES = [
@@ -106,4 +106,4 @@ while True:
     print(f"Completed iteration with features: {selected_features}")
 
     # Call plot function with selected features
-    plotModelsAndPredictions(selected_features)
+    #plotModelsAndPredictions(selected_features)
